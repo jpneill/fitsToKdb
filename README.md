@@ -18,7 +18,6 @@ http://code.kx.com/wiki/Cookbook/InterfacingWithC
 
 -Building a 32 bit .so for extending q from source file example.c (May require installation of gcc-multilib):
 
-Put k.h in the same folder as example.c
 *gcc -m32 -shared -fPIC example.c -o example.so*
 
 ********************
