@@ -1,5 +1,5 @@
 # fitsToKdb
-An interface for accessing tables in \*.fits files from a q process. This project requires two libraries not in this repository. 
+An interface for accessing tables in \*.fits files from a q process. This project requires two libraries not in this repository. For examples and more about this interface please read the pdf located here: [wplink]
 
 ## cfitsio
 The source for the cfitsio library developed by NASA can be downloaded from http://heasarc.gsfc.nasa.gov/fitsio/. Installation instructions can be found here:http://heasarc.gsfc.nasa.gov/docs/software/fitsio/quick/node3.html.
